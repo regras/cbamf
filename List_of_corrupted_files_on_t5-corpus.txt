@@ -1,0 +1,13 @@
+The corrupted files found in the t5-corpus are:
+
+  1. 002706.pdf
+  2. 003425.pdf
+  3. 003436.pdf
+  4. 003842.pdf
+  5. 004127.pdf
+  6. 004642.pdf
+  7. 004976.pdf
+  8. 004984.pdf
+  
+  
+ Obs.: We found out that, despite the .pdf extension, these objects are not pdf files, but edited html files, with a few line feed (hex:0A) and space (hex:20) characters inserted into their beginning.
