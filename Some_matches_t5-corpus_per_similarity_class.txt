@@ -1,15 +1,15 @@
-Some comparisons of the t5-corpus and their respective similarity class.
+# Some comparisons of the t5-corpus and their respective similarity class.
 
-Legend:
+# Legend:
   UGC: User-generated content match
   AGC: Application-generated content match
   TC: Template content match
  
 Note that some matches compare objects of different types (e.g., doc vs. html), which is due to similar content or common features.
   
-List of matches:
+# List of matches:
   
-Matches with score >= 21 (doc, pdf)
+# Matches with score >= 21 (doc, pdf)
 
   000003.doc|000002.doc|UGC
   004317.doc|004357.html|UGC
@@ -222,7 +222,7 @@ Matches with score >= 21 (doc, pdf)
   
   
   
-Matches with score >= 5 (text, html)
+# Matches with score >= 5 (text, html)
 
   002816.text|002817.text|UGC
   003925.text|003932.text|UGC
@@ -350,7 +350,7 @@ Matches with score >= 5 (text, html)
   004503.html|004910.html|AGC
 
 
-Matches with score >= 1 (gif, jpg)
+# Matches with score >= 1 (gif, jpg)
 
   002627.jpg|004088.ppt|UGC
   000132.ppt|002627.jpg|UGC
@@ -416,7 +416,7 @@ Matches with score >= 1 (gif, jpg)
   000872.jpg|002117.jpg|AGC
 
 
-Matches with score < 21 (doc)
+# Matches with score < 21 (doc)
 
   004862.doc|004944.html|UGC
   002683.doc|002686.doc|UGC
