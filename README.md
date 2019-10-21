@@ -5,7 +5,7 @@ The source codes provided here are a result of a study present on the following 
 
     . Moia, V.H.G., Breitinger, F., and Henriques, M.A.A. (2019). The impact of excluding common blocks for approximate matching. Computers & Security. Status: Submitted.
   
-    . Moia, V.H.G., Breitinger, F., and Henriques, M.A.A. (2019). Improving the similarity detection on digital forensics investigations using approximate matching functions by removing common blocks (still in progress).
+    . Moia, V.H.G., Breitinger, F., and Henriques, M.A.A. (2019). Understanding the effects of removing common blocks on approximate matching scores under different scenarios for digital forensic investigations. In XIX Brazilian Symposium on information and computational systems security (pp. 1-14). São Paulo-SP, Brazil: Brazilian Computer Society (SBC).
 
 How to create the common feature database and populate it using an Approximate Matching function:
 
