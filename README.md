@@ -1,5 +1,5 @@
 # cbamf
-Common Blocks and the Approaximate Matching Functions
+Common Blocks and Approaximate Matching Functions
 
 The source codes provided here are a result of a study present on the following papers:
 
